@@ -11,6 +11,10 @@ Server port range refers to a set of numeric identifiers used in networking to s
 
 
 
+How many bits does number above represent?
+
+Port numbers are represented by a 16-bit number, allowing for a maximum value of 65535.
+
 
 
 State 10 common server ports.
